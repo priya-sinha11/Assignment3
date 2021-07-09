@@ -1,0 +1,30 @@
+* {
+    background-color: bisque;
+}
+
+#ta {
+    margin-left:40%;
+    margin-top: 5%;
+}
+
+td {
+    font-weight: bold;
+    font-size: 120%;
+}
+
+button {
+    font-weight: bold;
+}
+
+button:hover {
+    background-color:cadetblue;
+    color:honeydew;
+}
+
+.mess {
+    margin-left:45%;
+    margin-top:2%;
+    font-weight:bold;
+    font-size: 200%;
+}
+
